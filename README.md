@@ -1,0 +1,2 @@
+# LC
+Documenting Leetcode problems
