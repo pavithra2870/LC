@@ -1,3 +1,5 @@
+## Smooth descent periods
+
 - Return the number of smooth descent periods.
 - A smooth descent period of a stock consists of one or more contiguous days such that the price on each day is lower than the price on the preceding day by exactly 1. 
 
@@ -11,3 +13,4 @@ class Solution:
             else: cur=1
             ans+=cur
         return ans
+```
