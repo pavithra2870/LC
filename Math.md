@@ -1,3 +1,4 @@
+## Divisors of number
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 when you list divisors, they always come in pairs:
